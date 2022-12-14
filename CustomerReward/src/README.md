@@ -27,6 +27,22 @@ Firstly they need to create a sample Database and create two tables using the co
 
 6) Now users can run the project in there local.
 
+# How to clone a repository
+## Cloning a repository can be done in 2 ways
+
+1) On GitHub.com, navigate to the main page of the repository. 
+ Above the list of files, click Download Code and run on the local IDE
+
+2) Copy the URL for the repository.
+
+To clone the repository using HTTPS, under "HTTPS", click  copy .
+
+To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click SSH, then click copy.
+
+To clone a repository using GitHub CLI, click GitHub CLI, then click copy .
+
+
+
 
 
 
