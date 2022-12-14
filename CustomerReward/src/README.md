@@ -1,5 +1,5 @@
 # Customer rewards
-
+ This project is all about to get the users reward points based on the tranction done by the respective users.  
 
 This service contain 3 end points called
 
@@ -24,6 +24,8 @@ Firstly they need to create a sample Database and create two tables using the co
 ( src/main/java/com/rewards/entity)
 
 5) To connect to the local database give the Database connection details in the application.properties floder. 
+
+6) Now users can run the project in there local.
 
 
 
