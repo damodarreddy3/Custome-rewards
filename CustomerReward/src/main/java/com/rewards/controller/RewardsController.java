@@ -20,7 +20,7 @@ import com.rewards.service.CustomerRewardsService;
 import java.util.List;
 
 /**
- * Controller class for rewards
+ * Controller class
  * 
  * @author Damodar reddy
  *
