@@ -13,7 +13,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 /**
- * Entity class for Transaction
+ * Entity class for Transaction this is to understand
  * @author Damodar reddy
  *
  */
